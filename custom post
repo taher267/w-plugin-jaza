@@ -1,0 +1,18 @@
+//plugin file wp-content/plugins/file-folder
+
+
+
+<?php 
+
+/*
+Plugin Name: Industry Jaza toolkit
+Plugin URI: http://wordpress.org
+Description: Custom Plugin Only
+Version: 1.0.0
+Author:	ABU TAHER
+Plugin URI: http://fb.com/taher267
+*/
+
+
+
+// Output
